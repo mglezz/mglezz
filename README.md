@@ -37,20 +37,4 @@ Built with **C#, .NET, and Avalonia UI**, Dowlume focuses on organizing download
 
 *Currently under active development.*
 
-## What I'm Currently Working On
 
-- Improving my knowledge of **C# and .NET**.
-- Learning more about **distributed systems and parallel programming**.
-- Exploring **software architecture, design patterns, and testing**.
-- Developing and documenting my own software projects.
-- Expanding my skills in **cross-platform application development**.
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
-
----
-
-*Always learning, building, and improving.*

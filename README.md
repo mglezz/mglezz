@@ -29,7 +29,7 @@ Currently, I'm focused on building personal projects, exploring software archite
 
 ## Featured Project
 
-### [Dowlume](https://github.com/MarcosGonzalez/dowlume)
+### [Dowlume](https://github.com/mglezz/dowlume)
 
 A desktop application designed to make file organization easier and more intuitive.
 

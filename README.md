@@ -1,5 +1,3 @@
-# Hi there, I'm Marcos 👋
-
 ### Computer Engineering Student | Software Development Enthusiast
 
 I'm a third-year **Computer Engineering student** at Universidad Europea del Atlántico, Spain.

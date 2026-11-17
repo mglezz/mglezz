@@ -35,4 +35,11 @@ Built with **C#, .NET, and Avalonia UI**, Dowlume focuses on organizing download
 
 *Currently under active development.*
 
+### [Homeryn](https://github.com/mglezz/homeryn)
+
+A local-first household management app. 
+
+Built with **C# and .NET, Homeryn keeps the shopping list and the housework together. Add milk, change a quantity, assign the kitchen to someone, or mark a chore as done. Everything stays saved for next time.
+
+*Currently under active development.*
 

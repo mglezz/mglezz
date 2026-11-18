@@ -33,7 +33,7 @@ A desktop application designed to make file organization easier and more intuiti
 
 Built with **C#, .NET, and Avalonia UI**, Dowlume focuses on organizing downloads through customizable rules and a clean user experience.
 
-*Currently under active development.*
+*Stable version currently available.*
 
 ### [Homeryn](https://github.com/mglezz/homeryn)
 

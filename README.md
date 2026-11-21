@@ -4,7 +4,7 @@ I'm a third-year **Computer Engineering student** at Universidad Europea del Atl
 
 I'm passionate about software development, learning new technologies, and turning ideas into real applications. I enjoy understanding how systems work, solving problems, and continuously improving my programming skills.
 
-Currently, I'm focused on building personal projects, exploring software architecture, and gaining practical experience beyond university.
+Currently focused on building personal projects, exploring software architecture, and gaining practical experience beyond university.
 
 ## Tech Stack
 
